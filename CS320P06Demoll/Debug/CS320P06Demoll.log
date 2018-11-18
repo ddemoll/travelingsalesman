@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\david\documents\visual studio 2015\projects\c++\cs320p06demoll\cs320p06demoll\source.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\david\documents\visual studio 2015\projects\c++\cs320p06demoll\cs320p06demoll\source.cpp(143): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\david\documents\visual studio 2015\projects\c++\cs320p06demoll\cs320p06demoll\source.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\documents\visual studio 2015\projects\c++\cs320p06demoll\cs320p06demoll\source.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\documents\visual studio 2015\projects\c++\cs320p06demoll\cs320p06demoll\source.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  CS320P06Demoll.vcxproj -> C:\Users\david\Documents\Visual Studio 2015\Projects\C++\CS320P06Demoll\Debug\CS320P06Demoll.exe
+  CS320P06Demoll.vcxproj -> C:\Users\david\Documents\Visual Studio 2015\Projects\C++\CS320P06Demoll\Debug\CS320P06Demoll.pdb (Partial PDB)
